@@ -132,7 +132,7 @@ python src/train.py
 
 ---
 
-## 🤖 Modélisation
+## Modélisation
 
 ### Modèles testés
 
@@ -194,7 +194,7 @@ Le **Logistic Regression** a été sélectionné comme meilleur modèle car :
 
 ---
 
-## 🔧 Tuning des hyperparamètres
+## Tuning des hyperparamètres
 
 ### Méthode utilisée
 
