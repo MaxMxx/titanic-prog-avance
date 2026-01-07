@@ -253,7 +253,7 @@ Après optimisation avec GridSearchCV (20 combinaisons testées, 5-fold CV) :
 
 ---
 
-## 🎯 Modèle final
+## Modèle final
 
 ### Modèle sélectionné
 
@@ -308,7 +308,7 @@ Le modèle final est sauvegardé dans :
 
 ---
 
-## ❌ Analyse d'erreurs
+## Analyse d'erreurs
 
 ### Matrice de confusion
 
